@@ -106,7 +106,7 @@ void draw(char arr[10]) {
 int main() 
 {
 	int choice, i = 1;
-	printf("          TIC TAC TOE GAME\n           made by Arnav   \n");
+	printf("          TIC TAC TOE GAME   \n");
 	printf("\nPLAYER 1 ENTER YOUR NAME = ");
 	scanf("%s",&p);
 	printf("\nPLAYER 2 ENTER YOUR NAME = ");
